@@ -1,0 +1,304 @@
+{
+  "courses": [
+    {
+      "name": "Ingles",
+      "trimestres": [
+        {
+          "name": "I trimestre",
+          "themes": [
+            {
+              "name": "Verbo to be",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to have",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "II trimestre",
+          "themes": [
+            {
+              "name": "Verbo to do",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to say",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingles",
+      "trimestres": [
+        {
+          "name": "I trimestre",
+          "themes": [
+            {
+              "name": "Verbo to be",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to have",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "II trimestre",
+          "themes": [
+            {
+              "name": "Verbo to do",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to say",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingles",
+      "trimestres": [
+        {
+          "name": "I trimestre",
+          "themes": [
+            {
+              "name": "Verbo to be",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to have",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "II trimestre",
+          "themes": [
+            {
+              "name": "Verbo to do",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to say",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingles",
+      "trimestres": [
+        {
+          "name": "I trimestre",
+          "themes": [
+            {
+              "name": "Verbo to be",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to have",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "II trimestre",
+          "themes": [
+            {
+              "name": "Verbo to do",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Verbo to say",
+              "videos": [
+                "https://www.youtube.com/",
+                "https://www.youtube.com/"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
