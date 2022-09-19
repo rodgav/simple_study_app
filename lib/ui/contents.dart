@@ -43,7 +43,7 @@ class _ContentsViewState extends State<ContentsView> {
                       child: const Text(
                         'Videos',
                         style: TextStyle(
-                            color: Colors.white, fontWeight: FontWeight.bold),
+                            color: Colors.white, fontWeight: FontWeight.bold),textAlign: TextAlign.center,
                       ),
                     ),
                   ),
@@ -62,7 +62,7 @@ class _ContentsViewState extends State<ContentsView> {
                       child: const Text(
                         'Materiales',
                         style: TextStyle(
-                            color: Colors.white, fontWeight: FontWeight.bold),
+                            color: Colors.white, fontWeight: FontWeight.bold),textAlign: TextAlign.center,
                       ),
                     ),
                   ),
@@ -79,7 +79,7 @@ class _ContentsViewState extends State<ContentsView> {
                       child: const Text(
                         'Actividades',
                         style: TextStyle(
-                            color: Colors.white, fontWeight: FontWeight.bold),
+                            color: Colors.white, fontWeight: FontWeight.bold),textAlign: TextAlign.center,
                       ),
                     ),
                   ),

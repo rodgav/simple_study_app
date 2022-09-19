@@ -84,6 +84,7 @@ class RouteGenerator {
         GoRoute(
             path: Routes.youtubeRoute,
             builder: (context, state) {
+              print('state.extra ${state.extra}');
               return YoutubeView(videoId: state.extra as String);
             }),
         GoRoute(

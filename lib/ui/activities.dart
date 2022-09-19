@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:go_router/go_router.dart';
 import 'package:random_color/random_color.dart';
+import 'package:study_group/util/routes.dart';
 
 class ActivitiesView extends StatefulWidget {
   final String theme;
@@ -42,13 +44,23 @@ class _ActivitiesViewState extends State<ActivitiesView> {
             ],
           ),
           childrenDelegate: SliverChildBuilderDelegate(
-              (context, index) => Container(
-                    decoration: BoxDecoration(
-                        color: RandomColor().randomColor(
-                            colorSaturation: ColorSaturation.mediumSaturation),
-                        borderRadius: BorderRadius.circular(20)),
+              (context, index) {final activity = widget.activities[index];
+              return GestureDetector(
+                onTap: () => context.push(Routes.pdfRoute, extra: activity),
+                child: Container(
+                  decoration: BoxDecoration(
+                      color: RandomColor().randomColor(
+                          colorSaturation: ColorSaturation.mediumSaturation),
+                      borderRadius: BorderRadius.circular(20)),
+                  child: const Icon(
+                    Icons.picture_as_pdf,
+                    color: Colors.white,
+                    size: 50,
                   ),
-              childCount: 100),
+                ),
+              );
+              },
+              childCount:  widget.activities.length),
         ));
   }
 }

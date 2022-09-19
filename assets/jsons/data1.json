@@ -1,0 +1,303 @@
+{
+  "courses": [
+    {
+      "name": "Matematica-Aritmetica",
+      "trimestres": [
+        {
+          "name": "III trimestre",
+          "themes": [
+            {
+              "name": "Tanto Por Ciento",
+              "videos": [
+                "6RosluNDZfo",
+                "gM9BAOBeTKg",
+                "_LPPP8tK6eI",
+                "RE3XoDORMys"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "MATRICES Y DETERMINATES",
+              "videos": [
+                "wM9gO8_RrDY",
+                "W-p1X-SAIjg",
+                "Q4EdMK9-Ejw",
+                "UGL8-4xE7ok"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Cuadrilateros",
+              "videos": [
+                "QeGSEZ3G-4o",
+                "GBl62iBnQzg",
+                "PXNUyk0SK3E",
+                "2xsQMBXNAB0"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quimica",
+      "trimestres": [
+        {
+          "name": "III trimestre",
+          "themes": [
+            {
+              "name": "Quimica Organica",
+              "videos": [
+                "vqGUvocEYAI",
+                "vwkBdk3rW3c",
+                "reLZFFsoClY",
+                "SmEW8Z4_duA"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "BALANCE POR MÉTODO REDOX",
+              "videos": [
+                "qoij_2LyXE0",
+                "9L2sCkjGGsw",
+                "ibJ3swECwMo",
+                "8FhaKem7Ers"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "BALANCE DE REACCIONES QUÍMICAS",
+              "videos": [
+                "wchcpkqNB4Y",
+                "Qo4fmJL0Ft4",
+                "wl_HCBxpBs0",
+                "vElVPqH0HDs"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "HIDROCARBUROS LINEALES",
+              "videos": [
+                "itVIgu2WAU8",
+                "4bMWblFCOVU",
+                "30F8lGtc6kE",
+                "BvldssjIm0g"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fisica",
+      "trimestres": [
+        {
+          "name": "III trimestre",
+          "themes": [
+            {
+              "name": "Analisis Dimensional",
+              "videos": [
+                "uUa6ZIgFUQg",
+                "m_3y6uUYHCY",
+                "2oBRYOiI0QI",
+                "qDWFKhT27_I"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Estática II",
+              "videos": [
+                "RS-rm1q7kxo",
+                "QSMT1ztD3Tw",
+                "xdEnJSl7shs",
+                "p6c9149sfz8"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Estática I",
+              "videos": [
+                "G0Fj4tZH7mo",
+                "ppnTXq1tc8c",
+                "T40RGmJ3o0g"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Movimiento Vertical de Caída Libre",
+              "videos": [
+                "eVu25wS2QQ4",
+                "AyRM3R1MoxA",
+                "0CA8kHkMBmk"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Formación Ciudadana y Cívica",
+      "trimestres": [
+        {
+          "name": "III trimestre",
+          "themes": [
+            {
+              "name": "Seguridad Ciudadana",
+              "videos": [
+                "rivGKEW2DJ0",
+                "3DXrf5GUUn4",
+                "hbHnifUrN5s"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "Garantías Constitucionales",
+              "videos": [
+                "gXO-ST2R3WQ",
+                "fB4-VXj4LRk",
+                "ijmUmJbs3d8"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            },
+            {
+              "name": "constitución política del Perú",
+              "videos": [
+                "UcrWe3b_-dw",
+                "dy4On_Q2cyI",
+                "wYaSQ83-iOQ"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingles",
+      "trimestres": [
+        {
+          "name": "III trimestre",
+          "themes": [
+            {
+              "name": "Verbo TO BE",
+              "videos": [
+                "i-3kGNbZUXE",
+                "8iLPYo9p3I0",
+                "cxNevk8Zbpw"
+              ],
+              "materials": [
+                "assets/materials/test.pdf",
+                "assets/materials/test.pdf"
+              ],
+              "activities": [
+                "assets/activities/test.pdf",
+                "assets/activities/test.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

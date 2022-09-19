@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:go_router/go_router.dart';
 import 'package:random_color/random_color.dart';
+import 'package:study_group/util/routes.dart';
 
 class VideosView extends StatefulWidget {
   final String theme;
@@ -35,14 +37,25 @@ class _VideosViewState extends State<VideosView> {
               ),
             ],
           ),
-          childrenDelegate: SliverChildBuilderDelegate(
-              (context, index) => Container(
-                    decoration: BoxDecoration(
-                        color: RandomColor().randomColor(
-                            colorSaturation: ColorSaturation.mediumSaturation),
-                        borderRadius: BorderRadius.circular(20)),
-                  ),
-              childCount: 100),
+          childrenDelegate: SliverChildBuilderDelegate((context, index) {
+            final video = widget.videos[index];
+            print('video $video');
+            return GestureDetector(
+              onTap: () => context.push(Routes.youtubeRoute,
+                  extra: video),
+              child: Container(
+                decoration: BoxDecoration(
+                    color: RandomColor().randomColor(
+                        colorSaturation: ColorSaturation.mediumSaturation),
+                    borderRadius: BorderRadius.circular(20)),
+                child: const Icon(
+                  Icons.play_circle_outline,
+                  color: Colors.white,
+                  size: 50,
+                ),
+              ),
+            );
+          }, childCount: widget.videos.length),
         ));
   }
 }

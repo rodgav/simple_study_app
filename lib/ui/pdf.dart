@@ -16,7 +16,7 @@ class _PdfViewState extends State<PdfView> {
     return Scaffold(
       appBar: AppBar(),
       body: SfPdfViewer.asset(
-        'assets/pdfs/test.pdf',
+        widget.pdf,
       ),
     );
   }

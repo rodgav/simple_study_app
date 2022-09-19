@@ -21,7 +21,7 @@ class _ThemesViewState extends State<ThemesView> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('${widget.course} - Videos'),
+          title: Text('${widget.course} - Temas'),
         ),
         body: GridView.custom(
           padding: const EdgeInsets.all(20),
@@ -53,7 +53,7 @@ class _ThemesViewState extends State<ThemesView> {
                       style: const TextStyle(
                           fontSize: 20,
                           color: Colors.white,
-                          fontWeight: FontWeight.bold)),
+                          fontWeight: FontWeight.bold),textAlign: TextAlign.center,),
                 ),
               ),
             );

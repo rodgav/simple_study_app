@@ -24,7 +24,7 @@ class _CoursesViewState extends State<CoursesView> {
 
   Future<List<Course>> _loadAsset() async {
     print('_loadAsset');
-    final data = await rootBundle.loadString('assets/jsons/data.json');
+    final data = await rootBundle.loadString('assets/jsons/data1.json');
     final courses = coursesFromJson(data);
     return courses.courses;
   }
@@ -69,18 +69,21 @@ class _CoursesViewState extends State<CoursesView> {
                                         ColorSaturation.mediumSaturation),
                                 borderRadius: BorderRadius.circular(20)),
                             child: Center(
-                              child: Text(course.name,
-                                  style: const TextStyle(
-                                      fontSize: 20,
-                                      color: Colors.white,
-                                      fontWeight: FontWeight.bold)),
+                              child: Text(
+                                course.name,
+                                style: const TextStyle(
+                                    fontSize: 20,
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold),
+                                textAlign: TextAlign.center,
+                              ),
                             ),
                           ),
                         );
                       }, childCount: courses.length),
                     )
                   : const Center(
-                      child: Text('Cursos no encontrados'),
+                      child: Text('Cursos no encontrados',textAlign: TextAlign.center,),
                     );
             }));
   }
